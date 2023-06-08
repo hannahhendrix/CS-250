@@ -14,4 +14,5 @@ Being a good team member in software development involves several key aspects:
   3. Adaptability: Being open to change, embracing new technologies and methodologies, and being willing to learn and grow.
   4. Empathy: Understanding and cosnidering the perspectives and needs of other team members, stakeholders, and users. Building positive relationships and fostering a supportive work environment.
   5. Continuous Learning: Staying updated with industry trends, new technologies, and best practices. Seeking opportunities to expand knowledge and skills through training, workshops, and self-study.
+
 By embodying these qualitites, you can contribute to the success of the team and the development process, fostering a positive and collaborative work environment.
